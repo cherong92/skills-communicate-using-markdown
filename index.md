@@ -11,3 +11,8 @@
 
 ### Movies
 - The Truman Show
+
+```
+$ git init
+Initalized empty Git repository in home/projects
+```
