@@ -16,3 +16,7 @@
 $ git init
 Initalized empty Git repository in home/projects
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
